@@ -151,7 +151,7 @@ if (navigator.vibrate) {
 
 ## 🚀 Recomendación Final
 
-### Para tu proyecto EcoNet:
+### Para tu proyecto EcoChain:
 
 1. **Deploy a Vercel**
    ```bash
@@ -218,4 +218,4 @@ if (navigator.vibrate) {
 
 ---
 
-💚 **EcoNet - Notificaciones implementadas (con limitaciones de iOS explicadas)**
+💚 **EcoChain - Notificaciones implementadas (con limitaciones de iOS explicadas)**

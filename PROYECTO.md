@@ -1,4 +1,4 @@
-# EcoNet - Plataforma de Innovación Comunitaria Sostenible
+# EcoChain - Plataforma de Innovación Comunitaria Sostenible
 
 Plataforma que integra movilidad ecológica, ahorro en Bitcoin y acción ambiental comunitaria, construida con Next.js 16 y React 19.
 
@@ -31,11 +31,11 @@ npm start
 EcoChain/
 ├── app/                            # Next.js App Router
 │   ├── layout.tsx                  # Layout principal
-│   ├── page.tsx                    # Página principal (importa EcoNet)
+│   ├── page.tsx                    # Página principal (importa EcoChain)
 │   └── globals.css                 # Estilos globales con Tailwind
 ├── src/                            # Código fuente de la aplicación
 │   ├── components/
-│   │   └── EcoNet.tsx              # Componente principal de la app
+│   │   └── EcoChain.tsx              # Componente principal de la app
 │   ├── config/
 │   │   └── constants.ts            # Constantes (VIEWS, ACTIVITY_TYPES, etc.)
 │   ├── core/                       # Lógica de negocio y datos
@@ -159,7 +159,7 @@ Modifica `src/config/constants.ts` para cambiar:
 
 ## 📄 Licencia
 
-Este proyecto es parte de EcoNet - Innovación Comunitaria Sostenible
+Este proyecto es parte de EcoChain - Innovación Comunitaria Sostenible
 
 ## 🤝 Contribuir
 

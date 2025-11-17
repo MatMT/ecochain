@@ -75,7 +75,7 @@ const PWAInstallPrompt = () => {
           
           <div className="flex-1">
             <h3 className="font-bold text-lg mb-1">
-              Instala EcoNet
+              Instala EcoChain
             </h3>
             <p className="text-sm text-white/90 mb-3">
               Agrega esta app a tu pantalla de inicio para acceso rápido y notificaciones.

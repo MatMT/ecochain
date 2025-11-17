@@ -1,8 +1,8 @@
-# 📱 Guía de Instalación PWA - EcoNet
+# 📱 Guía de Instalación PWA - EcoChain
 
 ## 🎯 ¿Qué es una PWA?
 
-EcoNet es una Progressive Web App (PWA), lo que significa que puedes instalarla en tu teléfono como si fuera una app nativa, sin necesidad de descargarla desde una tienda de aplicaciones.
+EcoChain es una Progressive Web App (PWA), lo que significa que puedes instalarla en tu teléfono como si fuera una app nativa, sin necesidad de descargarla desde una tienda de aplicaciones.
 
 ## ✨ Características de la PWA
 
@@ -18,7 +18,7 @@ EcoNet es una Progressive Web App (PWA), lo que significa que puedes instalarla 
 
 ### iPhone / iPad (Safari)
 
-1. **Abre Safari** y navega a la URL de EcoNet
+1. **Abre Safari** y navega a la URL de EcoChain
 2. Toca el botón **Compartir** (ícono de cuadrado con flecha hacia arriba)
 3. Desplázate y selecciona **"Agregar a la pantalla de inicio"**
 4. Personaliza el nombre si lo deseas
@@ -31,8 +31,8 @@ EcoNet es una Progressive Web App (PWA), lo que significa que puedes instalarla 
 
 ### Android (Chrome)
 
-1. **Abre Chrome** y navega a la URL de EcoNet
-2. Verás un banner automático que dice **"Agregar EcoNet a la pantalla de inicio"**
+1. **Abre Chrome** y navega a la URL de EcoChain
+2. Verás un banner automático que dice **"Agregar EcoChain a la pantalla de inicio"**
 3. Toca **"Agregar"** o **"Instalar"**
 4. Confirma tocando **"Agregar"** en el diálogo
 
@@ -66,10 +66,10 @@ EcoNet es una Progressive Web App (PWA), lo que significa que puedes instalarla 
 **iOS:**
 1. Ve a Ajustes > Safari > Notificaciones
 2. Activa "Permitir notificaciones"
-3. Abre EcoNet y acepta el permiso
+3. Abre EcoChain y acepta el permiso
 
 **Android:**
-1. Configuración > Aplicaciones > EcoNet
+1. Configuración > Aplicaciones > EcoChain
 2. Permisos > Notificaciones
 3. Activa todas las categorías
 
@@ -79,7 +79,7 @@ EcoNet es una Progressive Web App (PWA), lo que significa que puedes instalarla 
 
 Para probar que las notificaciones funcionan:
 
-1. Abre la app EcoNet desde tu pantalla de inicio
+1. Abre la app EcoChain desde tu pantalla de inicio
 2. Ve a la sección **"Proyectos"**
 3. Toca el botón **"Inscribirme"** en cualquier actividad
 4. ¡Deberías recibir una notificación instantánea! 🎉
@@ -181,7 +181,7 @@ Una vez desplegada, puedes verificar que la PWA funciona correctamente:
 
 ---
 
-## 💚 ¡Disfruta de EcoNet!
+## 💚 ¡Disfruta de EcoChain!
 
 Ahora tienes una app nativa de voluntariado ambiental en tu teléfono. Recibe notificaciones de nuevas actividades y mantente conectado con tu comunidad sostenible.
 

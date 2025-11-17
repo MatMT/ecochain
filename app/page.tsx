@@ -1,5 +1,5 @@
-import EcoNet from "@/components/EcoNet";
+import EcoChain from "@/components/EcoChain";
 
 export default function Home() {
-  return <EcoNet />;
+  return <EcoChain />;
 }

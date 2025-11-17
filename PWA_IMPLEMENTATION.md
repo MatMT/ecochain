@@ -1,8 +1,8 @@
-# ✅ PWA Implementation Summary - EcoNet
+# ✅ PWA Implementation Summary - EcoChain
 
 ## 🎉 ¡PWA Implementada Exitosamente!
 
-Tu aplicación EcoNet ahora es una **Progressive Web App** completamente funcional con notificaciones push.
+Tu aplicación EcoChain ahora es una **Progressive Web App** completamente funcional con notificaciones push.
 
 ---
 
@@ -200,7 +200,7 @@ vercel env add NEXT_PUBLIC_API_URL
 
 ### **Manifest:**
 - Display: standalone
-- Theme color: #059669 (verde EcoNet)
+- Theme color: #059669 (verde EcoChain)
 - Orientación: portrait
 - Shortcuts: Proyectos, Perfil
 
@@ -253,7 +253,7 @@ Antes de desplegar, verifica:
 
 ## 🎉 ¡Todo Listo!
 
-Tu app EcoNet ahora es una PWA completa con:
+Tu app EcoChain ahora es una PWA completa con:
 - ✅ Notificaciones push nativas
 - ✅ Instalación en pantalla de inicio
 - ✅ Funcionalidad offline

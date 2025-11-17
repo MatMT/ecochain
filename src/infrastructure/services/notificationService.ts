@@ -33,7 +33,7 @@ export class NotificationService {
       return registration.showNotification(title, {
         icon: '/icon-192x192.png',
         badge: '/icon-192x192.png',
-        tag: 'econet-notification',
+        tag: 'EcoChain-notification',
         requireInteraction: false,
         ...options,
       });

@@ -77,7 +77,7 @@ const NotificationSettings = () => {
           ⚠️ Has bloqueado las notificaciones. Para activarlas:
           <ul className="list-disc list-inside mt-2 space-y-1">
             <li><strong>iOS:</strong> Ajustes → Safari → Notificaciones</li>
-            <li><strong>Android:</strong> Configuración → Apps → EcoNet → Notificaciones</li>
+            <li><strong>Android:</strong> Configuración → Apps → EcoChain → Notificaciones</li>
           </ul>
         </div>
       )}

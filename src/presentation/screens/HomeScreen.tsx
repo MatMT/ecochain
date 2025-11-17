@@ -17,7 +17,7 @@ const HomeScreen: React.FC<HomeScreenProps> = ({ userPoints, satoshis, completed
         <div className="flex items-center gap-3 mb-4">
           <Leaf size={40} />
           <div>
-            <h1 className="text-4xl font-bold mb-1">EcoNet</h1>
+            <h1 className="text-4xl font-bold mb-1">EcoChain</h1>
             <p className="text-lg opacity-90">Innovación Comunitaria Sostenible</p>
           </div>
         </div>
@@ -90,7 +90,7 @@ const HomeScreen: React.FC<HomeScreenProps> = ({ userPoints, satoshis, completed
       <div className="bg-gradient-to-r from-purple-500 to-pink-500 text-white rounded-xl p-6 shadow-lg">
         <h3 className="text-xl font-bold mb-2 flex items-center gap-2">
           <Zap size={24} />
-          Los 3 Pilares de EcoNet
+          Los 3 Pilares de EcoChain
         </h3>
         <div className="space-y-2 text-sm">
           <div className="flex items-center gap-2">

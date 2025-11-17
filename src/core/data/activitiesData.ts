@@ -39,7 +39,7 @@ export const activitiesData: Activity[] = [
   {
     id: 2,
     title: "Instalación de Captación de Agua Lluvia",
-    organization: "EcoNet - Centro San Martín",
+    organization: "EcoChain - Centro San Martín",
     type: "water",
     date: "2025-11-18",
     time: "02:00 PM",
@@ -75,7 +75,7 @@ export const activitiesData: Activity[] = [
   {
     id: 4,
     title: "Monitoreo IoT Río Acelhuate",
-    organization: "MARN + EcoNet",
+    organization: "MARN + EcoChain",
     type: "monitoring",
     date: "2025-11-22",
     time: "07:00 AM",

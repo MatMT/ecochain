@@ -15,7 +15,7 @@ import { useNotifications } from '@/presentation/hooks/useNotifications';
 import { VIEWS } from '@/config/constants';
 import { Activity } from '@/core/data/activitiesData';
 
-const EcoNet = () => {
+const EcoChain = () => {
   const { currentView, setCurrentView } = useNavigation();
   const { userPoints, satoshis, completedHours, addActivityRewards } = useUserStats();
   const { isSupported, permission, requestPermission, notifyEnrollment } = useNotifications();
@@ -99,4 +99,4 @@ const EcoNet = () => {
   );
 };
 
-export default EcoNet;
+export default EcoChain;
