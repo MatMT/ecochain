@@ -26,7 +26,7 @@ const ProfileScreen: React.FC<ProfileScreenProps> = ({ userPoints, satoshis, com
 
     // Iniciar countdown
     setIsWaitingNotification(true);
-    setCountdown(15);
+    setCountdown(7);
 
     // Actualizar countdown cada segundo
     const countdownInterval = setInterval(() => {
@@ -39,7 +39,7 @@ const ProfileScreen: React.FC<ProfileScreenProps> = ({ userPoints, satoshis, com
       });
     }, 1000);
 
-    // Enviar notificación después de 15 segundos
+    // Enviar notificación después de 7 segundos
     setTimeout(() => {
       notify({
         title: '🌱 Nuevo Proyecto Cerca de Ti',
@@ -58,7 +58,7 @@ const ProfileScreen: React.FC<ProfileScreenProps> = ({ userPoints, satoshis, com
 
       // Mostrar también una alerta de confirmación
       alert('✅ Notificación enviada! Revisa tu teléfono.');
-    }, 15000);
+    }, 7000);
   };
   return (
     <div className="space-y-4">
