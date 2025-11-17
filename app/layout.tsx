@@ -13,15 +13,15 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "EcoNet - Plataforma de Innovación Comunitaria Sostenible",
+  title: "EcoChain - Plataforma de Innovación Comunitaria Sostenible",
   description: "Plataforma que integra movilidad ecológica, ahorro en Bitcoin y acción ambiental comunitaria",
   manifest: '/manifest.json',
   appleWebApp: {
     capable: true,
     statusBarStyle: 'default',
-    title: 'EcoNet',
+    title: 'EcoChain',
   },
-  themeColor: '#059669',
+  themeColor: '#2d5016',
   viewport: {
     width: 'device-width',
     initialScale: 1,
@@ -36,7 +36,7 @@ export const metadata: Metadata = {
       { url: '/icon-512x512.png', sizes: '512x512', type: 'image/png' },
     ],
     apple: [
-      { url: '/icon-192x192.png', sizes: '192x192', type: 'image/png' },
+      { url: '/apple-touch-icon.png', sizes: '180x180', type: 'image/png' },
     ],
   },
 };
