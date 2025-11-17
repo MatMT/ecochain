@@ -1,5 +1,5 @@
 // Constantes de la aplicación
-export const APP_NAME = 'EcoNet';
+export const APP_NAME = 'EcoChain';
 export const APP_DESCRIPTION = 'Plataforma de Innovación Comunitaria';
 
 export const VIEWS = {
